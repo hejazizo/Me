@@ -25,7 +25,7 @@
 
 # Online Courses to Pass
 |Topic|Sub Topic|Course|Passed?|Review Later?|
-|--|--|--|--|--|--|
+|--|--|--|--|--|
 |Python||[Python Beyond the Basics - Object-Oriented Programming](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/)|||
 |||[Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/)|||
 ||Time Series|[Python for Time Series Data Analysis](https://www.udemy.com/course/python-for-time-series-data-analysis/)|||
